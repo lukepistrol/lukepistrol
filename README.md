@@ -34,7 +34,7 @@ me.sayHi()
 - **Blog:** https://lukaspistrol.com/blog
 - **Twitter:** [@lukeeep_](https://twitter.com/lukeeep_)
 - **LinkedIn:** https://www.linkedin.com/in/lukas-pistrol/
-- **Mastodon:** <a rel="me" href="https://mastodon.social/@lukeeep">@mastodon.social@lukeeep</a>
+- **Mastodon:** <a target="_blank" rel="me noreferrer" href="https://mastodon.social/@lukeeep">@mastodon.social@lukeeep</a>
 
 
 <a href="https://www.buymeacoffee.com/lukeeep" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
