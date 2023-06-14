@@ -23,9 +23,9 @@ me.sayHi()
 
 ## Highlights
 
+- [**SFSymbolsMacro**](https://github.com/lukepistrol/SFSymbolsMacro) A Swift Macro for "type-safe" SF Symbols
 - [**SwiftLintPlugin**](https://github.com/lukepistrol/SwiftLintPlugin) A SPM Plugin for SwiftLint.
 - [**Pexels-Swift**](https://github.com/lukepistrol/Pexels-Swift) Pexels API client library for the Swift programming language.
-- [**Kraken-API**](https://github.com/lukepistrol/KrakenAPI) Swift wrapper for the Kraken Digital Asset Trading Platform REST API.
 - [**CodeEdit**](https://github.com/CodeEditApp/CodeEdit) A native open-source IDE for macOS.
 
 ## Links
