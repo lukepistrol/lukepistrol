@@ -23,6 +23,7 @@ me.sayHi()
 
 ## Highlights
 
+- [**TaskTrigger**](https://github.com/lukepistrol/TaskTrigger) Attach async tasks to SwiftUI views using a trigger mechanism.
 - [**SFSymbolsMacro**](https://github.com/lukepistrol/SFSymbolsMacro) A Swift Macro for "type-safe" SF Symbols
 - [**SwiftLintPlugin**](https://github.com/lukepistrol/SwiftLintPlugin) A SPM Plugin for SwiftLint.
 - [**Pexels-Swift**](https://github.com/lukepistrol/Pexels-Swift) Pexels API client library for the Swift programming language.
