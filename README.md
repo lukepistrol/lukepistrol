@@ -23,6 +23,7 @@ me.sayHi()
 
 ## Highlights
 
+- [**TimeMachineStatus**](https://github.com/lukepistrol/TimeMachineStatus) A little menu bar application for macOS which aims to show more useful information than the system default.
 - [**TaskTrigger**](https://github.com/lukepistrol/TaskTrigger) Attach async tasks to SwiftUI views using a trigger mechanism.
 - [**SFSymbolsMacro**](https://github.com/lukepistrol/SFSymbolsMacro) A Swift Macro for "type-safe" SF Symbols
 - [**SwiftLintPlugin**](https://github.com/lukepistrol/SwiftLintPlugin) A SPM Plugin for SwiftLint.
